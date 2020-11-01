@@ -1,0 +1,1 @@
+# Ck-editor-plugin
